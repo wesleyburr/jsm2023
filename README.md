@@ -1,25 +1,17 @@
-# jsm2023
+# Talk for Topic-Contributed Session, JSM 2023, Toronto, Ontario, Canada
 
 Quantifying Uncertainty - talk for the TIES session at JSM 2023 in Toronto.
 
 **Advancing environmental statistics through online collaborative groups**
-Won Chang Chair
-University of Cincinnati
- 
-Stefano Castruccio Organizer
-University of Notre Dame
+Chair: Won Chang, University of Cincinnati
  
 Monday, Aug 7: 8:30 AM - 10:20 AM
-1831 
+
+**Session 1831**
+
 Topic-Contributed Paper Session 
-Metro Toronto Convention Centre 
-Room: CC-203C,CC-203D 
-Applied
-Yes
+
 Main Sponsor    Section on Statistics and the Environment
-Co Sponsors   
-Section on Physical and Engineering Sciences
-Section on Statistical Computing
 
 **Presentations**
 
@@ -33,8 +25,7 @@ this exploration. We will present results for traditional time-series modelling 
 learning approaches and show how these frequently deemed "black-box" models have the ability to achieve proper 
 uncertainty quantification with the most up-to-date methodologies. 
 
-Speaker
-Wesley Burr
+Wesley Burr, Trent University
 
 **Exploration of model agnostic explainability methods for predicting environmental data**
 The International Environmetrics Society (TIES) hosted a working group this past year exploring artificial intelligence 
@@ -43,7 +34,6 @@ methods on predicting a soil moisture data set from sea surface temperature anom
 importance such as Shapley and LIME to global methods such as feature perturbation to explore information that can be gained
 from these newer methodologies. 
 
-Speaker
 Susan Simmons, North Carolina State University
 
 **So many methods for multivariate spatial analysis, which should I use?**
@@ -51,7 +41,6 @@ Our TIES working group considers the multivariate spatial outcome problem, speci
 We explore via a large simulation study which methods should be used based on sample size and the magnitude of correlation between two outcomes.
 Guidelines for which method is preferable based on predictive performance are given. The methods are illustrated on several datasets with two correlated outcomes. 
 
-Speaker
 Edward Boone, Virginia Commonwealth University
 
 **Building integrative capacity to supportonline collaboration in diverse multicultural environment**
@@ -66,7 +55,6 @@ by adopting concepts of equity, empowerment, and intellectual humility as guidin
 capacity for collaboration. We also explored the common features and dynamics ofdata hackathons and identifi ed several pathways 
 to convert them into a powerful research tool. 
 
-Speaker
 Elena Naumova, Tufts University
 
 **A Bayesian Multisource Fusion Model for Spatiotemporal PM2.5 and NO2 Data in an Urban Setting**
@@ -84,6 +72,5 @@ Equation with a non-separable space-time covariance structure and time-varying c
 and predictive power of this model for estimated PM2.5 and NO2 within sparsely-monitored locations at a monthly resolution, compared 
 to competitive models and single source approaches. 
 
-Speaker
 Abi Riley, Imperial College London
 
