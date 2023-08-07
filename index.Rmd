@@ -1,7 +1,7 @@
 ---
 title: "Uncertainty Quantification for ML Models in Environmental Systems" 
 author: 'Wesley S. Burr -- Trent University <br><a href="http://github.com/wesleyburr"><i class="fa fa-github fa-fw"></i>&nbsp; wsburr</a> <br> <a href="mailto:wesleyburr@trentu.ca"><i class="fa fa-paper-plane fa-fw"></i>&nbsp; wesleyburr@trentu.ca</a><br>'
-date: 2023-08-07 &ensp; <br><br> Slides available at bit.ly/jsm2023burr
+date: 2023-08-07 &ensp; <br><br> Slides available at bit.ly/jsm2023
 output:
   xaringan::moon_reader:
     chakra: remark-latest.min.js
@@ -240,7 +240,7 @@ class: inverse, middle
 
 - Contact me: [Email](mailto:wesleyburr@trentu.ca)
 - Slides created via the R package [xaringan](https://github.com/yihui/xaringan) by Yihui Xie
-- Slides and source at <http://bit.ly/jsm2023burr>
+- Slides and source at <http://bit.ly/jsm2023>
 - Code will be available at GitHub after the paper is accepted
 
 <br/>
